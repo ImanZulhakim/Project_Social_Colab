@@ -28,7 +28,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static_test')
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ]
+ALLOWED_HOSTS = ['127.0.0.1', '146.190.102.198']
 
 DATABASES = {
     'default': {
