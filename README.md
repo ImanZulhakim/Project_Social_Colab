@@ -10,7 +10,7 @@ UUMDahBaca is a Python based forum built using the Django framework.
 
 ## Usage
 
-Visit [[[http://146.190.102.198:8000](http://146.190.102.198:8000)]
+Visit [http://146.190.102.198:8000](http://146.190.102.198:8000)
 
 
 ## License
