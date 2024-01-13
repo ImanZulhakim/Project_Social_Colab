@@ -18,7 +18,7 @@ ADMINS = (('John', 'john@example.com'), )
 SECRET_KEY = os.environ.get("SECRET_KEY", '{{ secret_key }}')
 
 # https://docs.djangoproject.com/en/{{ docs_version }}/ref/settings/#allowed-hosts
-ALLOWED_HOSTS = ['.example.com', ]
+ALLOWED_HOSTS = ['.example.com', '146.190.102.198']
 
 # You can change this to something like 'MyForum <noreply@example.com>'
 DEFAULT_FROM_EMAIL = 'webmaster@localhost'  # Django default
