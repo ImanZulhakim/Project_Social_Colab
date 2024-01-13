@@ -91,4 +91,4 @@ CELERY_BEAT_SCHEDULE = {
     }
 }
 
-ST_SITE_URL = 'http://127.0.0.1:8000/'
+ST_SITE_URL = 'http://146.190.102.198:8000/'
