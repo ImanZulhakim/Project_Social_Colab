@@ -124,7 +124,7 @@ HUEY = {
 }
 
 # https://spirit.readthedocs.io/en/latest/settings.html#spirit.core.conf.defaults.ST_SITE_URL
-ST_SITE_URL = 'http://127.0.0.1:8000'
+ST_SITE_URL = 'http://146.190.102.198:8000'
 
 # If using elasticsearch, this fixes:
 # https://github.com/django-haystack/django-haystack/issues/1057
