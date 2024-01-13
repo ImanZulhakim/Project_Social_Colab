@@ -62,7 +62,7 @@ ST_RATELIMIT_CACHE = 'st_rate_limit'
 ST_UPLOAD_FILE_ENABLED = bool(int(os.getenv('ST_UPLOAD_FILE_ENABLED', True)))
 ST_ORDERED_CATEGORIES = True
 ST_TASK_MANAGER = os.getenv('ST_TASK_MANAGER', None)
-ST_SITE_URL = 'https://example.com/'
+ST_SITE_URL = 'http://146.190.102.198:8000/'
 HUEY = {
     'name': 'test',
     'immediate': True
